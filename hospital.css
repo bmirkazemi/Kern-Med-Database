@@ -1,0 +1,50 @@
+.visits {
+	border: solid black 1px; !important
+	border-radius: 10px;
+}
+
+.add {
+	width: 50%;
+}
+
+.viewInfo {
+	display: inline-block;
+}
+
+.welcome {
+    display: inline-block;
+	width: 500px;
+}
+
+h2 {
+    padding-left: 15px;
+}
+
+p {
+    font-family: courier;
+    font-size: 17px;
+}
+
+pre {
+    font-family: courier;
+}
+
+body {
+    background-color:#ccc;
+}
+
+.submit {
+    background-color:white;
+    width: 250px;
+    height: 90px;
+    padding-top : 20px;
+    float: center;
+    border: solid black 1px;
+    border-radius: 10px;
+}
+
+.assessment {
+	background-color: red;
+	border: solid black 1px;
+	float: left;
+}
